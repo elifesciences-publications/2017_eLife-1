@@ -1,3 +1,9 @@
+
+### This code is associated with the paper from Moreau et al., "High-intensity training enhances executive function in children in a randomized, placebo-controlled trial". eLife, 2017. http://dx.doi.org/10.7554/eLife.25062
+
+
+
+
 # 2017_eLife
 
 These files accompany the paper "High-intensity Training Enhances Executive Function in Children in a Randomized, Placebo-Controlled Trial" published in 2017 in eLife.
